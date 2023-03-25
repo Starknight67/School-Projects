@@ -1,5 +1,6 @@
 #Pacemaker V4
 ##Added Metronome Functionality
+##Added GitHub Functionality
 
 # Pacemaker Code
 #Importing things
